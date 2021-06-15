@@ -21,6 +21,7 @@ Q1. Assume a table "login" with username and password in mysql database "userdet
    3. Fetch records from "login" table
    4. If the entered Username and password matches with "login" table username and password, print valid user
       else invalid user.
+
 Q2. Create two files one.txt and two.txt. Write 5 lines in both files. Now merge the contents of both files into third file three.txt. Print the 
     content of three.txt.
 
